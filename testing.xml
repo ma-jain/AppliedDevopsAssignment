@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MathOperationsSuite">
+
+    <!-- Test cases for AddNumbers class -->
+    <test name="CalculateChargeTest">
+        <classes>
+            <class name="CalculateChargeTest"/>
+        </classes>
+    </test>
+
+<!--    &lt;!&ndash; Test cases for MultiplyNumbers class &ndash;&gt;-->
+<!--    <test name="MultiplyNumbersTest">-->
+<!--        <classes>-->
+<!--            <class name="MultiplyNumbersTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+</suite>
